@@ -1,0 +1,23 @@
+USE
+.Final Start 0
+one RESB 4096
+LDX zero
+Copystr LDCH Str1,X
+USE CBLCKS
+MAXLEN EQU *
+USE
+STCH Str2,X
+TIXR Count
+JLT CopyStr
+USE CBLCKS
+MAXBUFF EQU 100
+zero WORD 0
+Str1 BYTE c'BVB_CET'
+USE DATA
+Str2 RESB 4096
+USE CBLCKS
+Str3 BYTE x'A1B2C3'
+temp RESW 10
+Count WORD 7
+End
+hgfdmjhfr
