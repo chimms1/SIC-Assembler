@@ -1,7 +1,7 @@
 # SICXE-Assembler
 This is a naïve implementation of two-pass SICXE Assembler by [Shreyas Joshi](https://github.com/shreyasjoshi1234) and [Yash Deshpande](https://github.com/chimms1) done as part of System Software course during Undergrad.
 
-### Theory and algorithms are referred from the book System Software - An introduction to Systems Programming by Leland L. Beck
+### Theory and algorithms are referred from the book 'System Software - An introduction to Systems Programming' by Leland L. Beck
 
 Along with the final version, various iterations of development are also included which can be used as a reference by the interested ones.
 
