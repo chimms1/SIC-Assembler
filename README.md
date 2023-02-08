@@ -9,6 +9,7 @@ Along with the final version, various iterations of development are also include
 The program can be used in the following steps:
 1. Keep the SIC input assembly program in input.txt and OPTABLE in OPTAB.txt
 2. Run the pass1/pass2 code which will generate corresponding output files (intermediate for pass1 and object-program for pass2).
-(pass1 of few machine independent features of SIC such as Program Blocks, ORG, EQU... are achieved by modifications in the main program).
+
+##### (pass1 of few machine independent features of SIC such as Program Blocks, ORG, EQU... are achieved by modifications in the main program).
 
 #### Note:- We have used the bruteforce approach while programming the algorithms, which can also be implemented in various efficient ways. The code may also lack documentation in few places and might contain some workarounds to resolve errors which can be handled in a better way
