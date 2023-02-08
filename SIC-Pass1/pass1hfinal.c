@@ -1,5 +1,7 @@
 // Contributed by - Yash Deshpande and Shreyas Joshi
 
+// Note: char arrays can be used instead of char pointers to avoid unwanted in-place modification of variables
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
